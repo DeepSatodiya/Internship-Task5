@@ -2,7 +2,7 @@
 
 Study Notes Organizer - Landing Page
 
-## Live Site:- 
+## Live Site:- https://deepsatodiya.github.io/Internship-Task5/
 
 A clean, minimalist, and fully responsive landing page for a Study/Notes Organizer app inspired by Apple Notes. Built with HTML and CSS, featuring pastel/yellow accents and modern card-based UI.
 
